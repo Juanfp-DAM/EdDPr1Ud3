@@ -1,0 +1,2 @@
+Hola mi nombre ya no es Git, es archivo1.
+Este es mi primera subida :)
